@@ -1,7 +1,0 @@
-ArithmeticError
-AssertionError
-FloatingPOintError
-ModuleNotFoundError
-IndexError
-ImportError
-FileNotFoundError
